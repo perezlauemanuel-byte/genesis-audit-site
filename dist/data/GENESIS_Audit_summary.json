@@ -1,0 +1,23 @@
+{
+  "package": "GENESIS_Core_Complete_2025-10_v2_fix.zip",
+  "verified_hash": "bac4fe91060275aa7b1e11ade41a0ad4f3fa4860dd354567f3705b2470ee8237",
+  "status": "YELLOW",
+  "totals": {
+    "files": 24,
+    "by_category": {
+      "source_code": 7,
+      "docs": 10,
+      "data_config": 7
+    }
+  },
+  "source_fullpackage": {
+    "file": "GENESIS_Core_FullPackage_2025-10_v1.zip",
+    "sha256": "e06bc56771e16d70c07da06402fdca5a0a7a86d2c1d53466361fa3e58c6246eb"
+  },
+  "generated_at": "2025-10-17 07:57:21",
+  "notes": [
+    "6 archivos .md/.txt sin el pie legal exacto"
+  ],
+  "legal": "© 2025 Emanuel Pérez Lau — Marca: GENESIS — Concebido por Emanuel con asistencia de IA"
+}
+

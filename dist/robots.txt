@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://genesis-core-audit.vercel.app/sitemap.xml
+
